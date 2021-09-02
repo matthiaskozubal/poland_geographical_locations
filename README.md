@@ -7,23 +7,23 @@ User function ```return_coordinates(place)``` where ```place``` is either voivod
 Examples:
 --------
 1. 
-    * ```In:  return_coordinates('województwo podlaskie')```
+    * ```In:   return_coordinates('województwo podlaskie')```
     * ```Out: [53.267219444444, 22.931938888889]```
    
 2.
-    * ```In:  return_coordinates('podlaskie')```
+    * ```In:   return_coordinates('podlaskie')```
     * ```Out: [53.267219444444, 22.931938888889]```
 3.
-    * ```In:  return_coordinates('PODLASKIE')```
+    * ```In:   return_coordinates('PODLASKIE')```
     * ```Out: [53.267219444444, 22.931938888889]```
 4.
-    * ```In:  return_coordinates('Ursus')```
+    * ```In:   return_coordinates('Ursus')```
     * ```Out: [52.19517, 20.88419]```
 5.
     * ```In:  return_coordinates('Dobra')```
     * ```Out: [53.583333333333, 15.308333333333]```
 6.
-    * ```In:  return_coordinates('żyrardów')```
+    *(In) ```In:   return_coordinates('żyrardów')```
     * ```Out: [52.05, 20.433333333333]```    
     
     
