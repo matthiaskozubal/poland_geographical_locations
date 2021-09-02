@@ -23,7 +23,7 @@ Examples:
     * ```In:  return_coordinates('Dobra')```
     * ```Out: [53.583333333333, 15.308333333333]```
 6.
-    *(In) ```In:   return_coordinates('żyrardów')```
+    * ```In:   return_coordinates('żyrardów')```
     * ```Out: [52.05, 20.433333333333]```    
     
     
