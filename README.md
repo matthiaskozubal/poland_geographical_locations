@@ -2,7 +2,9 @@ Returns geographical coordinates of a given voivodeship, district of Warsaw, or 
 ==============
 
 Locations are obtained from wikidata.org using a SPARQL query language.
-User function ```return_coordinates(place)``` where ```place``` is either voivodeship, district of Warsaw, or city in Poland, written in polish. 
+* Use: ```return_coordinates(place)``` where ```place``` is either voivodeship, district of Warsaw, or city in Poland, written in polish. 
+* Output: [latitude, longitude].
+
 
 Examples:
 --------
