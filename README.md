@@ -30,5 +30,4 @@ Examples:
 Alternatively, following functions can also be used:
 * ```get_voivodeships()``` - returns a dataframe with all voivodeships in Poland,
 * ```get_warsaw_districts()``` - returns a dataframe with all districts of Warsaw (Poland),
-* ```get_cities()``` - returns a dataframe with all cities in Poland,
-* ```get_voivodeships()``` - returns a dataframe with all voivodeships in Poland.    
+* ```get_cities()``` - returns a dataframe with all cities in Poland.
