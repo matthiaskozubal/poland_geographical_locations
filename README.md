@@ -20,7 +20,7 @@ Examples:
     * ```In:  return_coordinates('Ursus')```
     * ```Out: [52.19517, 20.88419]```
 5.
-    * ```In:  return_coordinates('Dobra')
+    * ```In:  return_coordinates('Dobra')```
     * ```Out: [53.583333333333, 15.308333333333]```
 6.
     * ```In:  return_coordinates('żyrardów')```
