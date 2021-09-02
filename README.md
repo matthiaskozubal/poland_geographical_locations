@@ -7,9 +7,8 @@ User function return_coordinates(place).
 Names must be entered in polish language.
 
 Examples:
-1.
-    In:  return_coordinates('województwo podlaskie')
-    Out: [53.267219444444, 22.931938888889]
+1. In:  return_coordinates('województwo podlaskie')
+   Out: [53.267219444444, 22.931938888889]
 2.
     In:  return_coordinates('podlaskie')
     Out: [53.267219444444, 22.931938888889]
